@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "うそさ",
+  "base_artist": "Jinmenusagi",
+  "createdAt": "2026-01-13T15:23:26.736347Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "うそさ",
+      "artist": "Jinmenusagi",
+      "has_synced": false,
+      "path": "select/pl_01_うそさ_Jinmenusagi.txt"
+    }
+  ]
+}
